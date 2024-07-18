@@ -22,9 +22,9 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   border: solid;
   border-color: antiquewhite;
   flex-direction: column;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   font-size: 30px;
-  background-color: darkgreen;
+  background-color: rgb(199, 238, 199);
   padding-bottom: 10px;
   
     
@@ -37,3 +37,8 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
 }
 
+
+.boton {
+  width:200px;
+height:100px ;
+}
